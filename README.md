@@ -19,7 +19,7 @@ Hi 👋 My name is Ahmed A. Mansour
 Senior Software Engineer
 ------------------------
 
-I'm a Medical Informatics Engineer, Interested in Data Science. But also specialized in General Software Engineer (Desktop & Backend) to better sharpen my skills
+I'm a Medical Informatics Engineer, Interested in Data Science. But also specialized in General Software Engineer (Desktop & Backend) to better sharpen my skills.
 
 * 🌍  I'm based in Mansoura, Egypt
 * ✉️  You can contact me at [ahmadayman24789@gmail.com](mailto:ahmadayman24789@gmail.com)

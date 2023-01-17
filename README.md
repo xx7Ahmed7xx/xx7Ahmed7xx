@@ -52,7 +52,7 @@ I'm a Medical Informatics Engineer, Interested in Data Science. But also special
 
 <b>My GitHub Stats</b>
 
-[![xx7Ahmed7xx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xx7ahmed7xx)](https://github.com/xx7Ahmed7xx/github-readme-stats)
+[![xx7Ahmed7xx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xx7ahmed7xx&theme=radical)](https://github.com/xx7Ahmed7xx/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xx7ahmed7xx)](https://github.com/xx7Ahmed7xx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xx7ahmed7xx&theme=radical)](https://github.com/xx7ahmed7xx/github-readme-stats)
 

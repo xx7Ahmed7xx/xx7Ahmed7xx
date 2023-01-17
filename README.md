@@ -52,8 +52,7 @@ I'm a Medical Informatics Engineer, Interested in Data Science. But also special
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/xx7Ahmed7xx"><img src="https://github-readme-stats.vercel.app/api?username=xx7Ahmed7xx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="xx7Ahmed7xx's GitHub stats" /></a>
+[![xx7Ahmed7xx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xx7ahmed7xx)](https://github.com/xx7Ahmed7xx/github-readme-stats)
 
-<a href="http://www.github.com/xx7Ahmed7xx"><img src="https://activity-graph.herokuapp.com/graph?username=xx7Ahmed7xx&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xx7ahmed7xx)](https://github.com/xx7Ahmed7xx/github-readme-stats)
 
-<a href="https://github.com/xx7Ahmed7xx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xx7Ahmed7xx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

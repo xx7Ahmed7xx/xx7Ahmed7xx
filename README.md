@@ -23,7 +23,7 @@ I'm a Medical Informatics Engineer, Interested in Data Science. But also special
 
 * 🌍  I'm based in Mansoura, Egypt
 * ✉️  You can contact me at [ahmadayman24789@gmail.com](mailto:ahmadayman24789@gmail.com)
-* 🚀  I'm currently working on [Freelancing Projects](http://google.com)
+* 🚀  I'm currently working on [Freelancing Projects](http://google.com) & Full-time Senior Software Engineer
 * 🧠  I'm learning .NET Technologies & Machine Learning
 * 🤝  I'm open to collaborating on Open Source Projects, Community-Needed solutions and thing that is programmable 😉😎
 * ⚡  Love co-working, gym life style, healthy good, and non healthy ones 🤷‍♂️
